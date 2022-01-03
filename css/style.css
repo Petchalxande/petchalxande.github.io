@@ -38,3 +38,8 @@ a:hover {
 #copyright {
     font-size: 0.7rem;
 }
+
+.home-page-image {
+    max-height: 650px;
+    max-width: auto;
+}
