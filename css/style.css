@@ -1,7 +1,7 @@
 body {
     background-color: #fcfcfc;
-    font-family: Helvetica, sans-serif;
-    font-size: 0.8rem;
+    font-family: 'Crimson Pro', serif;
+    font-size: 0.85rem;
 }
 
 a {
@@ -16,6 +16,7 @@ a:hover {
 .nav-link {
     color: black;
     text-decoration: none;
+    font-size: 0.7rem;
 }
 
 .nav-link:hover {
@@ -24,7 +25,6 @@ a:hover {
 
 #main-header {
     font-size: 1.4rem;
-    font-family: 'Crimson Pro', serif;
 }
 
 .nav-item {
