@@ -1,6 +1,6 @@
 body {
     background-color: #fcfcfc;
-    font-family: 'Crimson Pro', serif;
+    font-family: 'Quattrocento Sans', sans-serif;
     font-size: 0.85rem;
 }
 
@@ -24,6 +24,7 @@ a:hover {
 }
 
 #main-header {
+    font-family: 'Quattrocento', serif;
     font-size: 1.4rem;
     letter-spacing: 1px;
     word-spacing: 5px;
