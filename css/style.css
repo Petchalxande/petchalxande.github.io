@@ -47,3 +47,13 @@ a:hover {
     max-height: 650px;
     max-width: auto;
 }
+
+.slider-image {
+    max-height: 650px;
+    max-width: 650px;
+}
+
+.gallery-button {
+    border: none;
+    background-color: #fcfcfc;
+}
